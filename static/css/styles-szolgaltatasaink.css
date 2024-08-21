@@ -1,0 +1,1474 @@
+html, body {
+  margin: 0;
+  min-height: 100%;
+  min-width: 100%;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.text-node { background-clip: text !important; -webkit-background-clip: text !important; }
+
+/* Szolgáltatásaink */
+.szolgltat-bbfb36611512 {
+  position: relative;
+  width: 100%;
+  background: rgba(255, 255, 255, 0);
+  overflow: hidden;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  padding: 0px 0px 0px 0px;
+  z-index: 0;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  min-height: 1524.01px;
+  min-width: 1440px;
+}
+
+/* Group */
+.group-bb6850625830 {
+  position: relative;
+  width: 1440px;
+  height: auto;
+  background: linear-gradient(to bottom, rgba(18, 18, 21, 1) 0%,rgba(38, 38, 41, 1) 100%);
+  border-radius: 0px 0px 0px 0px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+/* Group */
+.group-bc1a9c2a813b {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  background: linear-gradient(to bottom, rgba(112, 0, 160, 1) 0%,rgba(160, 0, 155, 1) 100%);
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* ACME */
+.acme-bc1a8e51ca0a {
+  width: 927px;
+  height: 144px;
+  flex-shrink: 0;
+}
+.acme-bc1a8e51ca0a .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.acme-bc1a8e51ca0a .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.acme-bc1a8e51ca0a .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.acme-bc1a8e51ca0a .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 200px;
+  font-size: 120px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Group */
+.group-bc19e4843f0a {
+  position: relative;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  gap: 80px;
+  padding: 80px 80px 80px 80px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+/* Group */
+.group-bc2048ef8d80 {
+  position: relative;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 50px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+/* Group */
+.group-bc1e0fe79bfb {
+  position: relative;
+  width: 1280px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 50px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Group */
+.group-bc1da59c7215 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 32px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* A weboldalak folyamatos karbantartása és támogatása, beleértve a biztonsági frissítéseket, hibajavításokat és technikai támogatást, hogy a weboldal mindig optimális állapotban legyen és a felhasználók elégedettek legyenek. */
+.a-weboldal-bc1a3a6410f3 {
+  width: 100%;
+  height: 202px;
+  flex-shrink: 0;
+}
+.a-weboldal-bc1a3a6410f3 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.a-weboldal-bc1a3a6410f3 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.a-weboldal-bc1a3a6410f3 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: start;
+}
+.a-weboldal-bc1a3a6410f3 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Karbantartás és támogatás */
+.karbantart-bc1df1e6a49a {
+  width: 100%;
+  height: 58px;
+  flex-shrink: 0;
+}
+.karbantart-bc1df1e6a49a .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: center;
+}
+.karbantart-bc1df1e6a49a .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.karbantart-bc1df1e6a49a .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.karbantart-bc1df1e6a49a .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Vector (5) */
+.vector-5-bc22752ec023 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.vector-5-bc22752ec023 {
+  position: relative;
+  width: 55px;
+  height: 64px;
+  flex-shrink: 0;
+}
+
+/* svg-path */
+.svgpath-bc227530543c > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-bc227530543c {
+  position: absolute;
+  left: 0.15px;
+  top: 0px;
+  width: 54.69px;
+  height: 64px;
+}
+
+/* base-background */
+.basebackg-bc22752f5d0f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-bc22752f5d0f {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 55px;
+  height: 64px;
+  border-radius: 0px;
+  display: none;
+}
+
+/* Group */
+.group-bc1e22ab60dd {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 32px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* A weboldalak optimalizálása a keresőmotorok számára, hogy jobb helyezést érjenek el a keresési eredményekben, valamint a weboldalak sebességének és teljesítményének javítása, hogy a látogatók számára gyors és zökkenőmentes élményt nyújtsanak. */
+.a-weboldal-bc1e22ab60de {
+  width: 100%;
+  height: 231px;
+  flex-shrink: 0;
+}
+.a-weboldal-bc1e22ab60de .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.a-weboldal-bc1e22ab60de .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.a-weboldal-bc1e22ab60de .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: start;
+}
+.a-weboldal-bc1e22ab60de .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* SEO optimalizálás és
+weboldal teljesítményjavítás */
+.seo-optima-bc1e22ab60df {
+  width: 100%;
+  height: 58px;
+  flex-shrink: 0;
+}
+.seo-optima-bc1e22ab60df .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.seo-optima-bc1e22ab60df .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.seo-optima-bc1e22ab60df .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.seo-optima-bc1e22ab60df .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+.seo-optima-bc1e22ab60df .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.seo-optima-bc1e22ab60df .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Vector (4) */
+.vector-4-bc226b9cb35f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.vector-4-bc226b9cb35f {
+  position: relative;
+  width: 66px;
+  height: 64px;
+  flex-shrink: 0;
+}
+
+/* svg-path */
+.svgpath-bc226b9ec2f3 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-bc226b9ec2f3 {
+  position: absolute;
+  left: 0.19px;
+  top: 0px;
+  width: 65.62px;
+  height: 64px;
+}
+
+/* base-background */
+.basebackg-bc226b9d568b > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-bc226b9d568b {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 66px;
+  height: 64px;
+  border-radius: 0px;
+  display: none;
+}
+
+/* Group */
+.group-bc1e233baed3 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 32px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* A weboldalakhoz tartalomkezelő rendszerek telepítése és testreszabása, amelyek lehetővé teszik az ügyfelek számára, hogy könnyedén frissítsék és kezeljék a weboldaluk tartalmát anélkül, hogy szakértői segítségre lenne szükségük. */
+.a-weboldal-bc1e233baed4 {
+  width: 100%;
+  height: 231px;
+  flex-shrink: 0;
+}
+.a-weboldal-bc1e233baed4 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.a-weboldal-bc1e233baed4 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.a-weboldal-bc1e233baed4 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: start;
+}
+.a-weboldal-bc1e233baed4 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Tartalomkezelő rendszer
+beállítása és testreszabása */
+.tartalomke-bc1e233baed5 {
+  width: 100%;
+  height: 58px;
+  flex-shrink: 0;
+}
+.tartalomke-bc1e233baed5 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.tartalomke-bc1e233baed5 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.tartalomke-bc1e233baed5 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.tartalomke-bc1e233baed5 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+.tartalomke-bc1e233baed5 .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.tartalomke-bc1e233baed5 .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Vector */
+.vector-bc21fc892baa > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.vector-bc21fc892baa {
+  position: relative;
+  width: 57px;
+  height: 64px;
+  flex-shrink: 0;
+}
+
+/* svg-path */
+.svgpath-bc21fc8abd06 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-bc21fc8abd06 {
+  position: absolute;
+  left: 0.67px;
+  top: 0px;
+  width: 55.65px;
+  height: 64px;
+}
+
+/* base-background */
+.basebackg-bc21fc89b2db > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-bc21fc89b2db {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 57px;
+  height: 64px;
+  border-radius: 0px;
+  display: none;
+}
+
+/* Group */
+.group-bc204bf2965f {
+  position: relative;
+  width: 1280px;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 50px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Group */
+.group-bc204bf29660 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 32px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* A weboldalak olyan kialakítása, amely lehetővé teszi a tökéletes megjelenést és funkcionalitást mindenféle eszközön, beleértve a mobiltelefonokat és táblagépeket is, biztosítva a felhasználóbarát élményt. */
+.a-weboldal-bc204bf29663 {
+  width: 100%;
+  height: 202px;
+  flex-shrink: 0;
+}
+.a-weboldal-bc204bf29663 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.a-weboldal-bc204bf29663 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.a-weboldal-bc204bf29663 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: start;
+}
+.a-weboldal-bc204bf29663 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Responszív weboldal
+kialakítása */
+.responszv-bc204bf29664 {
+  width: 228px;
+  height: 58px;
+  flex-shrink: 0;
+}
+.responszv-bc204bf29664 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.responszv-bc204bf29664 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.responszv-bc204bf29664 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: start;
+}
+.responszv-bc204bf29664 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+.responszv-bc204bf29664 .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.responszv-bc204bf29664 .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Vector (3) */
+.vector-3-bc224df900bf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.vector-3-bc224df900bf {
+  position: relative;
+  width: 85px;
+  height: 64.01px;
+  flex-shrink: 0;
+}
+
+/* svg-path */
+.svgpath-bc224dfa1b78 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-bc224dfa1b78 {
+  position: absolute;
+  left: 0.82px;
+  top: 0px;
+  width: 83.35px;
+  height: 64.01px;
+}
+
+/* base-background */
+.basebackg-bc224df9fd35 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-bc224df9fd35 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 85px;
+  height: 64px;
+  border-radius: 0px;
+  display: none;
+}
+
+/* Group */
+.group-bc204bf29661 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 32px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* Az ügyfelek személyre szabott és kreatív weboldal design lehetőségét kapják, amely a vállalkozásuk stílusához és brandjéhez igazodik, és segít kiemelkedni a versenytársak közül. */
+.az-gyfele-bc204bf29666 {
+  width: 100%;
+  height: 173px;
+  flex-shrink: 0;
+}
+.az-gyfele-bc204bf29666 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.az-gyfele-bc204bf29666 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.az-gyfele-bc204bf29666 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: start;
+}
+.az-gyfele-bc204bf29666 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Egyedi weboldal
+design készítése */
+.egyedi-web-bc204bf29667 {
+  width: 100%;
+  height: 58px;
+  flex-shrink: 0;
+}
+.egyedi-web-bc204bf29667 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.egyedi-web-bc204bf29667 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.egyedi-web-bc204bf29667 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.egyedi-web-bc204bf29667 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+.egyedi-web-bc204bf29667 .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.egyedi-web-bc204bf29667 .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Vector (2) */
+.vector-2-bc22361883cf > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.vector-2-bc22361883cf {
+  position: relative;
+  width: 58px;
+  height: 64px;
+  flex-shrink: 0;
+}
+
+/* svg-path */
+.svgpath-bc22361abc05 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-bc22361abc05 {
+  position: absolute;
+  left: 0.62px;
+  top: 0.27px;
+  width: 56.76px;
+  height: 63.45px;
+}
+
+/* base-background */
+.basebackg-bc2236192f6f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-bc2236192f6f {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 58px;
+  height: 64px;
+  border-radius: 0px;
+  display: none;
+}
+
+/* Group */
+.group-bc204bf29662 {
+  position: relative;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  gap: 32px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  flex: 1;
+}
+
+/* A weboldalkészítő cég szakemberei által készített egyedi és modern weboldalak tervezése és fejlesztése, amelyek megfelelnek az ügyfél igényeinek és célcsoportjának. */
+.a-weboldal-bc204bf29669 {
+  width: 100%;
+  height: 144px;
+  flex-shrink: 0;
+}
+.a-weboldal-bc204bf29669 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.a-weboldal-bc204bf29669 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.a-weboldal-bc204bf29669 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: start;
+}
+.a-weboldal-bc204bf29669 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Weboldal tervezés
+és fejlesztés */
+.weboldal-t-bc204bf2966a {
+  width: 100%;
+  height: 58px;
+  flex-shrink: 0;
+}
+.weboldal-t-bc204bf2966a .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.weboldal-t-bc204bf2966a .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  min-width: 100%;
+  margin-right: 1px;
+  vertical-align: top;
+}
+.weboldal-t-bc204bf2966a .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.weboldal-t-bc204bf2966a .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+.weboldal-t-bc204bf2966a .root-0-paragraph-set-0-paragraph-1 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: center;
+}
+.weboldal-t-bc204bf2966a .root-0-paragraph-set-0-paragraph-1-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+.weboldal-t-bc204bf2966a .root-0-paragraph-set-0-paragraph-1-text-1 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: break-spaces;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Vector (1) */
+.vector-1-bc221e37909d > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.vector-1-bc221e37909d {
+  position: relative;
+  width: 125px;
+  height: 64px;
+  flex-shrink: 0;
+}
+
+/* svg-path */
+.svgpath-bc221e387b92 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-bc221e387b92 {
+  position: absolute;
+  left: 0.77px;
+  top: 0px;
+  width: 123.46px;
+  height: 63.98px;
+}
+
+/* base-background */
+.basebackg-bc221e37e06a > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.basebackg-bc221e37e06a {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 125px;
+  height: 64px;
+  border-radius: 0px;
+  display: none;
+}
+
+/* Szolgáltatásaink */
+.szolgltat-bc1da13bb4fb {
+  width: 289px;
+  height: 48px;
+  flex-shrink: 0;
+}
+.szolgltat-bc1da13bb4fb .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.szolgltat-bc1da13bb4fb .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.szolgltat-bc1da13bb4fb .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: start;
+}
+.szolgltat-bc1da13bb4fb .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 40px;
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 400;
+}
+
+/* Group */
+.group-bbea32faeab5 {
+  position: relative;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+/* Rectangle */
+.rectangle-bbea23a0a403 {
+  width: 100%;
+  height: 1px;
+  background: #B1B2B5;
+  border-radius: 0px;
+  flex-shrink: 0;
+}
+
+/* Group */
+.group-bb689c61760c {
+  position: relative;
+  width: 1440px;
+  height: 80px;
+  box-shadow: ;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: space-between;
+  padding: 0px 32px 0px 32px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+
+/* Group */
+.group-bb6988d0d477 {
+  position: relative;
+  width: auto;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: end;
+  gap: 50px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Kapcsolat */
+.kapcsolat-bb687111c6df {
+  width: 107px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.kapcsolat-bb687111c6df .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.kapcsolat-bb687111c6df .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.kapcsolat-bb687111c6df .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1;
+  margin: 0;
+  text-align: left;
+}
+.kapcsolat-bb687111c6df .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(170, 170, 170, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(170, 170, 170, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Szolgáltatásaink */
+.szolgltat-bb6a77a8c3e2 {
+  width: 180px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.szolgltat-bb6a77a8c3e2 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.szolgltat-bb6a77a8c3e2 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.szolgltat-bb6a77a8c3e2 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1;
+  margin: 0;
+  text-align: left;
+}
+.szolgltat-bb6a77a8c3e2 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+}
+
+/* Céginformáció */
+.cginform-bb698ba6494a {
+  width: 158px;
+  height: 24px;
+  flex-shrink: 0;
+}
+.cginform-bb698ba6494a .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.cginform-bb698ba6494a .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.cginform-bb698ba6494a .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1;
+  margin: 0;
+  text-align: left;
+}
+.cginform-bb698ba6494a .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(170, 170, 170, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(170, 170, 170, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 24px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Group */
+.group-bb69d9633b8c {
+  position: relative;
+  width: 832px;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: start;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+
+/* ACME Inc. */
+.acme-inc-bb68a7165791 {
+  width: 178px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.acme-inc-bb68a7165791 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.acme-inc-bb68a7165791 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.acme-inc-bb68a7165791 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1;
+  margin: 0;
+  text-align: left;
+}
+.acme-inc-bb68a7165791 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(255, 255, 255, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 40px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100;
+}
