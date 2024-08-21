@@ -1,0 +1,266 @@
+html, body {
+  margin: 0;
+  min-height: 100%;
+  min-width: 100%;
+  padding: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vw;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.text-node { background-clip: text !important; -webkit-background-clip: text !important; }
+
+/* Kezdőlap */
+.kezdlap-bbfa9f45ae9f {
+  position: relative;
+  width: 100%;
+  background: rgba(255, 255, 255, 0);
+  overflow: hidden;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  z-index: 0;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-grow: 1;
+  min-height: 1024px;
+  min-width: 1440px;
+}
+
+/* Group */
+.group-bb60e7600307 {
+  position: relative;
+  width: 1440px;
+  height: 1024px;
+  background: linear-gradient(to bottom, rgba(18, 18, 21, 1) 0%,rgba(38, 38, 41, 1) 100%);
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  flex-shrink: 0;
+}
+
+/* Group */
+.group-ba07a5795241 {
+  position: relative;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: center;
+  align-content: stretch;
+  justify-content: center;
+  gap: 50px;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+/* Group */
+.group-ba089ed0a126 {
+  position: relative;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: start;
+  align-content: stretch;
+  justify-content: start;
+  gap: 24px;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+
+/* Kapcsolat */
+.kapcsolat-ba0892af25d0 {
+  width: 234px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.kapcsolat-ba0892af25d0 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.kapcsolat-ba0892af25d0 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.kapcsolat-ba0892af25d0 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.kapcsolat-ba0892af25d0 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(170, 170, 170, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(170, 170, 170, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 54px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100;
+}
+
+/* Szolgáltatásaink */
+.szolgltat-ba0881558353 {
+  width: 381px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.szolgltat-ba0881558353 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.szolgltat-ba0881558353 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.szolgltat-ba0881558353 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.szolgltat-ba0881558353 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(170, 170, 170, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(170, 170, 170, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 54px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100;
+}
+
+/* Céginformáció */
+.cginform-ba0855ab02a9 {
+  width: 343px;
+  height: 65px;
+  flex-shrink: 0;
+}
+.cginform-ba0855ab02a9 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.cginform-ba0855ab02a9 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.cginform-ba0855ab02a9 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.cginform-ba0855ab02a9 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(170, 170, 170, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(170, 170, 170, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-size: 54px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 100;
+}
+
+/* Rectangle */
+.rectangle-ba07dd678d9c {
+  width: 1px;
+  height: 100%;
+  background: #F9FAFF;
+  border-radius: 0px;
+  flex-shrink: 0;
+}
+
+/* ACME Inc. */
+.acme-inc-ba07718ae569 {
+  width: 436px;
+  height: 77px;
+  flex-shrink: 0;
+}
+.acme-inc-ba07718ae569 .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.acme-inc-ba07718ae569 .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.acme-inc-ba07718ae569 .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.acme-inc-ba07718ae569 .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgb(255, 255, 255);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  letter-spacing: 15px;
+  font-size: 64px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+}
