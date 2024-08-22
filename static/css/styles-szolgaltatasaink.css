@@ -17,6 +17,16 @@ body {
   box-sizing: border-box;
 }
 
+a:link, a:visited {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
 .text-node { background-clip: text !important; -webkit-background-clip: text !important; }
 
 /* Szolgáltatásaink */
@@ -1258,7 +1268,7 @@ design készítése */
   position: relative;
   width: 1440px;
   height: 80px;
-  box-shadow: ;
+  box-shadow: none;
   display: flex;
   align-items: center;
   align-content: stretch;
